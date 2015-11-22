@@ -1,0 +1,59 @@
+p, 
+ul, 
+h4 {
+	font-family: 'Muli', sans-serif;
+	}
+
+a,
+a:hover {
+	color: #d5c4a1; 
+	}
+	
+h1,
+h2, 
+h3 {
+	font-family: 'Ovo', serif;
+	}
+
+ .nav, 
+ .navbar-brand {
+	background-color: #B94526; 
+	color: #ECECFB; 
+	font-family: 'Ovo', serif;
+	font-size: 20px;
+	}
+
+.jumbotron {
+	background-image: url("../images/cafe.PNG"); 
+	background-size: cover; 
+	background-position: 0% 65%; 
+	background-attachment: fixed; 
+	background-repeat: no-repeat; 
+	color: #ECECFB; 
+	font-family: 'Ovo', serif;
+	}
+
+.icons {
+	padding: 5px; 
+	} 
+
+.homepage {
+	font-size: 1.5em;
+	}
+	
+.open {
+	color: #204000;
+	}	
+
+.closed {
+	color: #660000;
+	}
+
+#store-info {
+	background-color: #B94526; 
+	padding: 40px 100px 40px 100px; 
+  font-family: 'Muli', sans-serif;
+	font-size: 15px;
+	color: #fff; 
+	}
+	
